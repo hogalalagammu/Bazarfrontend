@@ -1,0 +1,11 @@
+.ppicc {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* You can adjust this height as needed */
+  }
+  
+  .centered-img {
+    max-width: 100%; /* Ensure the image doesn't exceed its pic */
+    max-height: 100%; /* Ensure the image doesn't exceed its container */
+  }
